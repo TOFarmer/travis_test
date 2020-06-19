@@ -2,3 +2,7 @@ language: minimal
 
 script:
   - echo "Hello World"
+
+branches:
+  only:
+  - no_PR_branch
