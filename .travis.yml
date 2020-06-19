@@ -6,3 +6,4 @@ script:
 branches:
   only:
   - no_PR_branch
+  - master
